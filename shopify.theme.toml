@@ -1,0 +1,2 @@
+[environments.development]
+store="https://client-store-build.myshopify.com/"
