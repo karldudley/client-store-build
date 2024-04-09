@@ -1,0 +1,6 @@
+mix-manifest.json
+package.json
+package-lock.json
+webpack.mix.js
+tailwind.config.js
+.gitignore
